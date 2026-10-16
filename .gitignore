@@ -1,0 +1,4 @@
+# Generated dataset is reproducible via `python src/generate_data.py`
+data/flows.csv
+data/anomalies.png
+__pycache__/
